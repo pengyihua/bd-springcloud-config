@@ -3,6 +3,6 @@ server:
 eureka: 
   client: 
     serviceUrl: 
-      defaultZone:http://192.168.243.18:9001/eureka/,http://192.168.243.19:9001/eureka/
+      defaultZone: http://192.168.243.18:9001/eureka/,http://192.168.243.19:9001/eureka/
 demo:
-  title: 'sdsadsadasda'
+  title: "sdsadsadasda"
